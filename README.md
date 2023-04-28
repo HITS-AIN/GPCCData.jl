@@ -2,7 +2,11 @@
 
 ## ℹ What is this?
 
-It is a julia package that allows convenient access to certain datasets.
+It is a julia package that allows convenient access to certain datasets for reproducing the [experiments](https://github.com/HITS-AIN/GPCCpaper) in
+
+**A Gaussian process cross-correlation approach to time delay estimation for reverberation mapping of active galactic nuclei**
+
+via the [GPCC.jl](https://github.com/HITS-AIN/GPCC.jl) implementation.
 
 
 ## 💾 Installation 
