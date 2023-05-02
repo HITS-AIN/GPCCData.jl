@@ -3,7 +3,7 @@
 ## ℹ What is this?
 This repository contains the data for reproducing all the results presented in 
 
-*A Gaussian process cross-correlation approach to time delay estimation for reverberation mapping of active galactic nuclei*
+[A Gaussian process cross-correlation approach to time delay estimation for reverberation mapping of active galactic nuclei](https://github.com/HITS-AIN/GPCCPaper)
 
 via the [GPCC.jl](https://github.com/HITS-AIN/GPCC.jl) implementation.
 
